@@ -1,15 +1,14 @@
-# india_covid19_data
+# Covid Tracker in Flutter
 
-A new Flutter project.
+In this project we have created very simple flutter app, to only demonstrate the article on medium.
 
-## Getting Started
+## Article on Medium
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+I Wrote article on this Flutter app on Medium, read the article below
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Become Full Stack Mobile developer (Vapor + Flutter) — Part 3](https://medium.com/flawless-app-stories/become-full-stack-mobile-developer-vapor-flutter-part-3-57102c4c03d4)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
