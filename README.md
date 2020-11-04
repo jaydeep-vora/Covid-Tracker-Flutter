@@ -1,8 +1,8 @@
-![alt text](https://github.com/jaydeep-vora/Covid-Tracker-Flutter/blob/master/Vapor+flutter.png?raw=true)
-
 # Covid Tracker in Flutter
 
 In this project we have created very simple flutter app, to only demonstrate the article on medium.
+
+![alt text](https://github.com/jaydeep-vora/Covid-Tracker-Flutter/blob/master/Vapor+flutter.png?raw=true)
 
 ## Article on Medium
 
