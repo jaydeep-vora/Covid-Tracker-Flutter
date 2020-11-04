@@ -14,6 +14,6 @@ I Wrote article on this Flutter app on Medium, read the article below
 
 ![alt text](https://github.com/jaydeep-vora/Covid-Tracker-Flutter/blob/master/flutter_covid_app.gif?raw=true)
 
-For help getting started with Flutter, view our
+For help getting started with Flutter, view
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
